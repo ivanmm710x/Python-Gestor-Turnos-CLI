@@ -2,10 +2,10 @@ import numeros
 
 def preguntar():
 
-    print("Bienvenido/a a La Farmacia del Barrio")
+    print("Bienvenido/a a La Farmacia del Barrio, escoja su ticket")
 
     while True:
-        print("[P] - Perfumería\n[F] - Farmacia\n[C] - Cosmútica")
+        print("[P] - Perfumería\n[F] - Farmacia\n[C] - Cosmética")
         try:
             opcion = input("Elija su opcion: ").upper()
             ["P", "F", "C"].index(opcion)
