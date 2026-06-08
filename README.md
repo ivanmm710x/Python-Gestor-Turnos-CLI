@@ -1,8 +1,8 @@
-# 📮 Gestor de Colas CLI - Farmacia
+#  Gestor de Colas CLI - Farmacia
 
 Aplicación de terminal interactiva desarrollada en Python para gestionar los turnos de atención de una farmacia multipuesto (Perfumería, Farmacia y Cosmética). El proyecto destaca por una arquitectura modular que separa la interfaz de usuario de la lógica de negocio, priorizando la eficiencia de memoria y la robustez frente a errores de *input*.
 
-## 🧰 Inventario de Arquitectura y Tecnologías
+## Inventario de Arquitectura y Tecnologías
 
 En este desarrollo se han aplicado patrones de diseño orientados a la optimización de recursos y al blindaje del flujo de ejecución:
 
@@ -20,7 +20,7 @@ En este desarrollo se han aplicado patrones de diseño orientados a la optimizac
 
 ---
 
-## ⚙️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Clona este repositorio en tu máquina local.
 2. Asegúrate de tener Python instalado en tu sistema.
